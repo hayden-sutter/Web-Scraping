@@ -19,4 +19,4 @@ This project uses knowledge of HTML, along with Python and the BeautifulSoup lib
 
 <h2>Program walk-through:</h2>
 
-To get a complete walk throuhg of the project click on the pdf that has been added to this repository above or download the code and run it in Jupyter Notebook.
+To get a complete walk through of the project click on the pdf that has been added to this repository above or download the code and run it in Jupyter Notebook.
